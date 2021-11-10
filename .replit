@@ -1,0 +1,1 @@
+run = "npx mocha './tests/*.spec.js'"
